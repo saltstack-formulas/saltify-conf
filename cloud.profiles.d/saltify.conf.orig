@@ -1,0 +1,5 @@
+salt-this-machine:
+  ssh_host: 12.34.56.78
+  ssh_username: root
+  key_filename: '/etc/salt/mysshkey.pem'
+  provider: my-saltify-config

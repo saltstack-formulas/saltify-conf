@@ -1,0 +1,8 @@
+name: saltify-conf
+os: RedHat, Debian, Ubuntu, Suse, FreeBSD
+os_family: RedHat, Debian, Ubuntu, Suse, FreeBSD
+version: 2018.3
+release: 1
+minimum_version: 2018.3.0
+summary: Example Salt Cloud configuration for Saltify
+description: This formula contains example Salt Cloud configuration for Saltify
